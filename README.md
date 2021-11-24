@@ -1,0 +1,1 @@
+# all-Funtions-List-in-Power-Query
